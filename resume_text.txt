@@ -1,0 +1,108 @@
+D A V I D     X U 
++1 (647) 778-7329 | davidjx.xu@mail.utoronto.ca | in/davidjx06   
+Education 
+University of Toronto: Bachelor of Applied Science in Civil Engineering + PEY Sep 2024 - Apr 2029 
+Certiﬁcations                Software 
+ SFA & CPR C (2024) 
+ WHMIS (2026) 
+ Rhinoceros 3D  
+ Autodesk Suite (Autocad, Revit, etc) 
+ Microsoft Suite 
+ Adobe suite 
+ ArcGis 
+ Vscode 
+ QGIS 
+ Solidworks 
+ MicroStation 
+ Ansys Workbench 
+Work Experience 
+Trenton Cadet Training Centre (Cadet Correspondent) Jun 2025 - Aug 2025 
+ Worked with the Brigadier General to align the Cadet Program with her strategic vision for the program development 
+ Managed internal and external information ﬂow, ensuring operational security and a professional public representation 
+ Filled in role of oƯicer  
+ Workﬂow ~3000 photos per day using excel for audit archive and the quota of 3 posts and 1 video project a day for 10 weeks 
+Decathlon Canada (Store Technician) Feb 2023 - Jul 2024 
+ Provided service, maintenance, training for all sports, store equipment, and to all 5 store section teams 
+ Built an eƯicient customer response and delivery workﬂow that increased service time by 10-fold in the workshop 
+ Encouraged store tradition amongst colleagues to improve store moral and to increase service levels and proﬁt margins 
+Lewis Design and Construction (Internship Student) Jul 2023 - Aug 2023 
+ Created and review ﬂoor plans and performed site analyses to ensure design accuracy, consistency and meeting client needs 
+ Utilized Blender to create high-quality renderings for presentation, delivering signiﬁcant cost and time savings 
+ Collaborated with senior to reﬁne concepts and ensure project feasibility and compliance with regulations 
+Experience and Projects 
+NEIGES Biotechnologies Well Plate Video Module (CAD Specialist) Feb 2026 - Present 
+ Assisting the development of CellSnooper, an in-incubator device for real-time cell contractility monitoring 
+ Designed modular, 3D-printed structures using oƯ-the-shelf components with multiple degrees of freedom for calibration and imaging 
+ Collaborated remotely with a cross-university team on the second physical prototype, designing with predeﬁned electronic components 
+Grand River Watershed Delineation - ArcGIS Pro (Academic Project ) Jan 2026- Feb 2026 
+ Delineated the 6,782 km² Grand River watershed using hydrologic tools (Fill, Flow Direction, Flow Accumulation, Watershed) 
+ Processed and projected DEM data (WGS 1984 UTM Zone 17N) for accurate elevation and drainage analysis 
+ Analyzed watershed characteristics including elevation, perimeter, and drainage network topology 
+ Generated drainage boundaries and stream networks; validated outputs against basemap/hydrography layers 
+ Produced map layouts with consistent symbology, labeling, legend, scale bar, and export settings 
+ Managed feature classes and attribute tables; maintained organized geodatabase structure and naming conventions 
+Building Takedown Estimation - Revit (Academic Project) Oct 2025 - Nov 2025 
+ Developed a BIM-based quantity takeoƯ and cost estimate for a residential building using Revit and RSMeans covering 200+ materials 
+ Built a structured method to select between RSMeans Unit and Assembly pricing methods, avoiding double counting  
+ Produced an industry-style Excel executive summary consolidating trade costs, percentages, and cost per square metre for review 
+Queen’s Park Station Capacity Report (Academic Project) Oct 2025 - Nov 2025 
+ Led congestion assessment and decision analysis for the Queen’s Park Station Northwest exit bottleneck 
+ Modeled 9×1.8ௗm (16.2ௗm²) corridor with ≤6ௗppl/m² comfort; compared Pathway Expansion, North Exit, and FC Tunnel 
+ Recommended Pathway Expansion (~5.0ௗm) + North Exit; meets ~250 peak at comfort, reducing density and egress time 
+FROSH Week SUBCOM (Videography Chair) Mar 2025 - Feb 2026 
+ Managed and organized large volumes of content for event documentation and archival use for the largest FROSH Event in Canada 
+ Coordinated ﬁlming schedules and deliverables with organizing teams under weekly deadlines 
+ Maintained structured folder systems and ﬁle naming conventions to ensure accuracy and accessibility 
+UofT Autodrive Team (Video Specialist) Oct 2025 -   Present 
+ Collaborating with technical team to ﬁlmed and edited driving footage for post-drive analysis, documentation, and performance review 
+ Created video content for social media, outreach, and public-facing communications for recruiting future team members and sponsors 
+ Supported on-site testing operations, including drive course setup and general team assistance on top of managing a 5-camera setup 
+ 
+D A V I D     X U 
+Sub Tooth Blood Flow Detection (Multi-Modality Coordinator) Jan 2025 -    Present 
+ Working on new methods of blood ﬂow detection within the pulp chamber with the Dental Faculty at UofT 
+ Reaching out to diƯerent departments and faculties to invent new method of subsurface ﬂow detection 
+ Currently focused on a Lidar Flowmetry Technique pending further research on spectral stability 
+Field Survey Assistance (Self Interest) Sep 2024 - July 2025 
+ Applied photogrammetry and gaussian splatting techniques for precise measurements and mapping through drone footage  
+ Utilized modeling programs such as Autodesk Recap and Blender to create models and prototypes for project visualization 
+ Following techniques were applied to help diƯerent disciplines to assist on campus projects at UofT 
+UofT Unmanned Aerial Systems SAE Team (Design Team Structural Subsystem) Sep 2025 -    Present 
+ Designed and assembled SolidWorks mechanism for payload handling with a team of 8 from across diƯerent disciplines 
+ Prototyped 5 single servo designs testing its structural capabilities, weight, ease of use, DFM/A, and ease of installation 
+ Designed fuselage in SolidWorks and prepared AutoCAD ﬁles for laser-cut with space optimization  
+ Achieved 4th place overall at the SAE competition, delivering a 3× increase in total points compared to the previous year 
+Royal Canadian Air Cadets (Squadron Warrant OƯicer) Sep 2019 - Sep 2025 
+ Mentoring over 20 cadet leaders to develop over 150 cadets to become thoughtful teammates to excel together 
+ Lead of the PA team that outputs weekly videos and posts to gather engagement of the local community 
+ Boost in eƯective team interaction and moral resulting in one of the most well-known Corps in Canada 
+Bahen Courtyard Project (Academic Project - Project Manager) Sep 2024 - Dec 2024 
+ Collaboration with the Sustainability oƯice at UofT and group of 6 to transform a decommissioned premise in Bahen Centre of IT 
+ Full solution was implemented including ﬂoor plan and 3D Visualizations implemented in Blender for fast preliminary plan 
+ Transformed a decommissioned premise to a hustling “third place” and community gathering place 
+Bike Fork Mount (Personal project) Dec 2023 - Jun 2024 
+ Designed robust frame for mounting on bike forks that aren’t designed for mounting front pannier racks in Fusion 360 and tested on CAE 
+ Designed for manufacturing through CNC milling, Laser Cutting, or 3D printing allowing a fast, strong, and accessible product 
+ Adaptive front rack can increase bike payload by an extra 20 kilograms allowing ﬂexible bike conﬁgurations for bike packing 
+YYZ-MTL Bike Packing Ride (Personal project) 8 days in Aug 2023 
+ Organized an 8-day ride with a group of 3 that spanned over 1200 Kilometer from across Ontario to Quebec 
+ Explored rural communities and military bases and interacted with its citizens and local infrastructure 
+ Helped gain an understanding of the current infrastructure status in this country  
+Hack the Ridge High School Hackathon (Outreach Coordinator) Jul 2023 – Aug 2024 
+ Several educational workshops were run to guide newbies to obtain tools to compete eƯectively in the hackathon 
+ My promotion strategies provided a reach of over 400 sign-ups which was 3x the previous year’s attendees 
+ Raised over $5000 in Sponsorship money just for prizes, facilities, food, merchandise, volunteers 
+2022-2023 Yearbook (Secondary Editor) Sep 2022 - Dec 2023 
+ Responsible for organizing a team over 30 people with over 120 pages of content within 4 months to create a consistant yearbook 
+ Organized design and content gathering workﬂow through a yearbook ladder for easy viewing and collaboration 
+ First to introduce uniform colour grading creating a more pleasant and organized viewing experience 
+Airbus A350F Livery Design Contest (Self Interest) Sep 2022 – Nov 2022 
+ Drafted a creative conceptualization that was integrated innovative aesthetics and functional elements 
+ Contributed to a design that aligns with the mission for creativity and relevance in the aviation sector 
+ Ensured the livery design harmonized with Airbus’ corporate identity, emphasizing branding 
+London Luton Airport Revitalization (Personal project) Dec 2021 - Aug 2023 
+ Designed a long-term masterplan concept for an over-capacity airport located in the northern outskirts of London 
+ Created renderings for terminal upgrades and multimodal transport links to support new capacity requirements 
+ Explored highway and transit integration strategies with current transit options such as the DART and other connections 
+ Developed optimized rendering and design workﬂows to reduce computational load and increase productivity 
+Personal Interests:  Skiing, Bikepacking, Photography/Videography, CNC Machines, Bird & Plane Spotting, Designing Gadgets  
